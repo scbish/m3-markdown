@@ -11,7 +11,7 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 See `complete` branch for answers.
 
 # mkdir
-## make directory
+### make directory
 
 The `mkdir` command is used to make a new directory in the current working directory. For example:
 
