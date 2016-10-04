@@ -1,4 +1,4 @@
-# Exercise-2
+# Exercise-3
 
 As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should begin by forking this repository, then cloning it to your local machine (if you haven't already).
 
