@@ -9,3 +9,18 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+# mkdir
+## make directory
+
+The `mkdir` command is used to make a new directory in the current working directory. For example:
+
+```
+mkdir NewDirectory
+``
+
+Here's some more information about the `mkdir` command:
+
+1. `mkdir -p` will create parent directories if needed
+* For example: `mkdir -p /Desktop/Parent/Child` will create a "Parent" folder and a "Child" subfolder.
+2. `mkdir -m` will set permission mode
