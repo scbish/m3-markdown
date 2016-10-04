@@ -22,5 +22,5 @@ mkdir NewDirectory
 Here's some more information about the `mkdir` command:
 
 1. `mkdir -p` will create parent directories if needed
-* For example: `mkdir -p /Desktop/Parent/Child` will create a "Parent" folder and a "Child" subfolder.
+   * For example: `mkdir -p /Desktop/Parent/Child` will create a "Parent" folder and a "Child" subfolder.
 2. `mkdir -m` will set permission mode
