@@ -17,7 +17,7 @@ The `mkdir` command is used to make a new directory in the current working direc
 
 ```
 mkdir NewDirectory
-``
+```
 
 Here's some more information about the `mkdir` command:
 
